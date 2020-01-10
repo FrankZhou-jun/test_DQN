@@ -383,7 +383,7 @@ public class testDQN
     }
     
     //run like this
-    BLLKearsModel.testDQN testDQN = new BLLKearsModel.testDQN();
+    testDQN testDQN = new testDQN();
     testDQN.RunDQN();
     
     
